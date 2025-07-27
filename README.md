@@ -148,9 +148,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-### Stay Updated and Join the Community
-
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+### Stay Updated and Join with me-
 
 - **LinkedIn**: https://www.linkedin.com/in/shubham-yadav-98a0a4286/
 
