@@ -1,4 +1,4 @@
---Retail Revenue Forecaster- P1
+--Retail Revenue Forecaster-
 		create database SQL_Project1;
 --create Table
 		 drop table if exists retail_sales;
